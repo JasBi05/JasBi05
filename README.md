@@ -20,8 +20,7 @@ I've started working with **C# using Unity**, and one day I’ll start exploring
 
 
 ### Currently Learning
-- C# with Unity  
-- Git & GitHub workflow
+- C# with Unity
 - Java 
 
 
