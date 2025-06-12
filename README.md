@@ -13,7 +13,7 @@ I've started working with **C# using Unity**, and one day I’ll start exploring
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 👨‍💻 More About Me
+## More About Me
 
 ### Languages and Tools
 - VS Code, Unity, Git  
@@ -24,9 +24,5 @@ I've started working with **C# using Unity**, and one day I’ll start exploring
 - Git & GitHub workflow
 - Java 
 
-
-
-## My Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayanekaita/)  [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__aynek__)
 
 
