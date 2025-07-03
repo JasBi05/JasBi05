@@ -16,12 +16,13 @@ I've started working with **C# using Unity**, and one day I’ll start exploring
 ## More About Me
 
 ### Languages and Tools
-- VS Code, Unity, Git  
+- VS Code, Unity, Git , PyCharm
 
 
 ### Currently Learning
 - C# with Unity
-- Java 
+- Java
+- Python
 
 
 
